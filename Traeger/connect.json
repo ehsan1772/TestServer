@@ -1,83 +1,87 @@
 {
-networks: [
-{
-ssid: "StoutSocial",
-sec_type: 3,
-rssi: -53
-},
-{
-ssid: "fanTM",
-sec_type: 3,
-rssi: -81
-},
-{
-ssid: "Oven Bits",
-sec_type: 3,
-rssi: -38
-},
-{
-ssid: "LNPublic",
-sec_type: 2,
-rssi: -78
-},
-{
-ssid: "Oven Bits Guest",
-sec_type: 3,
-rssi: -38
-},
-{
-ssid: "HP-Print-50-LaserJet 300",
-sec_type: 0,
-rssi: -57
-},
-{
-ssid: "HLR",
-sec_type: 3,
-rssi: -72
-},
-{
-ssid: "Oven Bits Guest",
-sec_type: 3,
-rssi: -57
-},
-{
-ssid: "Oven Bits",
-sec_type: 3,
-rssi: -58
-},
-{
-ssid: "MRM2211",
-sec_type: 3,
-rssi: -78
-},
-{
-ssid: "ATT400",
-sec_type: 3,
-rssi: -78
-},
-{
-ssid: "HLR",
-sec_type: 3,
-rssi: -66
-},
-{
-ssid: "Unknown Token",
-sec_type: 0,
-rssi: 0
-},
-{
-ssid: "Unknown Token",
-sec_type: 0,
-rssi: 0
-},
-{
-ssid: "Unknown Token",
-sec_type: 0,
-rssi: 0
-}
-],
-valid_networks: 12,
-device_type: 1,
-uuid: "0123456789abcdef",
-provisioning_status: 0
+  "networks": [
+    
+    {
+      "ssid": "StoutSocial",
+      "sec_type": 3,
+      "rssi": -53
+    },
+    {
+      "ssid": "fanTM",
+      "sec_type": 3,
+      "rssi": -81
+   },
+  {
+      "ssid": "Oven Bits",
+      "sec_type": 3,
+      "rssi": -38
+    },
+    {
+      "ssid": "LNPublic",
+      "sec_type": 2,
+      "rssi": -78
+   },
+   {
+      "ssid": "Oven Bits Guest",
+      "sec_type": 3,
+      "rssi": -38
+    },
+    {
+      "ssid": "HP-Print-50-LaserJet 300",
+      "sec_type": 0,
+      "rssi": -57
+   },
+  {
+      "ssid": "HLR",
+      "sec_type": 3,
+      "rssi": -72
+    },
+    {
+      "ssid": "Oven Bits Guest",
+      "sec_type": 3,
+      "rssi": -57
+   },
+   {
+      "ssid": "Oven Bits",
+      "sec_type": 3,
+      "rssi": -58
+    },
+    {
+      "ssid": "MRM2211",
+      "sec_type": 3,
+      "rssi": -78
+    },
+    {
+      "ssid": "ATT400",
+      "sec_type": 3,
+      "rssi": -78
+    },
+    {
+      "ssid": "HLR",
+      "sec_type": 3,
+      "rssi": -66
+    },
+    {
+      "ssid": "Unknown Token",
+      "sec_type": 0,
+      "rssi": 0
+    },
+    {
+      "ssid": "Unknown Token",
+      "sec_type": 0,
+      "rssi": 0
+    },
+    {
+      "ssid": "Unknown Token",
+      "sec_type": 0,
+      "rssi": 0
+    }
+
+  ],
+
+  "valid_networks": 12,
+  "device_type": 1,
+  "uuid": "0123456789abcdef",
+  "provisioning_status": 0
+  
 }
